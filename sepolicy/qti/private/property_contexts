@@ -1,5 +1,8 @@
 # Autotest
-persist.sys.oplus.autotest.monkeyRunning    u:object_r:exported_system_prop:s0
+persist.sys.oplus.autotest.monkeyRunning	 u:object_r:exported_system_prop:s0
+
+# Bluetooth
+persist.sys.bt.a2dp.                             u:object_r:exported_system_prop:s0
 
 # Camera
 NA                                     u:object_r:exported_system_prop:s0
