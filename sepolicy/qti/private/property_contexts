@@ -4,6 +4,9 @@ persist.sys.oplus.autotest.monkeyRunning	 u:object_r:exported_system_prop:s0
 # Bluetooth
 persist.sys.bt.a2dp.                             u:object_r:exported_system_prop:s0
 
+# Bluetooth
+persist.sys.bt.a2dp.pendingtime                       u:object_r:exported_system_prop:s0
+
 # Camera
 NA                                     u:object_r:exported_system_prop:s0
 oplus.camera.                          u:object_r:exported_system_prop:s0
